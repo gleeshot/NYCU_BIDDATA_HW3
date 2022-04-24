@@ -1,0 +1,6 @@
+*.pptx
+*.odt
+*.zip
+*.txt
+*.pdf
+./Hadoop_spark_env
